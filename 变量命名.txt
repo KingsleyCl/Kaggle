@@ -1,0 +1,8 @@
+sou  DF         train.csv
+pre  DF                test.csv
+full   DF              train.csc+test.csv
+
+X_train   np.ndarray   训练集
+y_train   np.ndarray   训练集标签
+
+X_pre   np.ndarray    预测集
