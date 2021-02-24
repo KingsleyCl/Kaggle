@@ -1,4 +1,4 @@
-# Kaggle of JTSJK
+# Kaggle of STRING
 ## Variables
 |Var|Type|Instruction
 |----|----|----
